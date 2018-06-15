@@ -1,3 +1,6 @@
 spring:
   application:
     name: config-client-test-two
+  cloud:
+    config:
+      enabled: false
