@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+info:
+  foo: ms
+  someList: [2, 3, 7]

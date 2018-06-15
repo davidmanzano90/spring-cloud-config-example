@@ -1,0 +1,6 @@
+server:
+  port: 8090
+
+info:
+  foo: ms-two
+  someList: [2, 3, 7]
